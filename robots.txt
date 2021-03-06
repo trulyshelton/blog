@@ -1,1 +1,1 @@
-Sitemap: https://trulyshelton.github.io/blog/sitemap.xml
+Sitemap: https://blog.hongtao.me/sitemap.xml
